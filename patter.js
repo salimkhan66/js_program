@@ -10,7 +10,6 @@ function leftStar() {
     console.log(ptr);
   }
 }
-
 leftStar() 
 
 
@@ -25,7 +24,6 @@ function downward() {
     console.log(ptr);
   }
 }
-
 downward()
 
 // =====================================Number Patter=============================
