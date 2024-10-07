@@ -28,7 +28,8 @@ function rightPtrn(){
     }
 }
 
-rightPtrn()
+// rightPtrn()
+
 
 
 
