@@ -17,8 +17,6 @@ while(count>0){
     }else{
         break;
     }
-    
-    
     i=i+2;
     j=j+2;    
   count--;
